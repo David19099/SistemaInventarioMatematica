@@ -1,0 +1,43 @@
+codigo,nombre,categoria,stock,stock_minimo,precio,vencimiento,ventas_mensuales
+P001,Arroz blanco 500 g,Granos y abarrotes,5,15,2600,2027-09-05,85
+P002,Frijol cargamanto 500 g,Granos y abarrotes,8,10,6500,2027-08-16,22
+P003,Lentejas 500 g,Granos y abarrotes,25,10,3800,2027-07-27,0
+P004,Azúcar 1 kg,Granos y abarrotes,30,12,4200,2027-10-25,60
+P005,Sal 500 g,Granos y abarrotes,20,8,1500,2028-03-23,30
+P006,Aceite vegetal 1 L,Granos y abarrotes,6,8,11500,2027-05-28,28
+P007,Pasta espagueti 250 g,Granos y abarrotes,35,12,2200,2027-07-17,45
+P008,Panela en bloque,Granos y abarrotes,12,6,3500,2027-03-09,18
+P009,Atún en lata 160 g,Granos y abarrotes,18,8,5200,2028-03-23,15
+P010,Café molido 250 g,Granos y abarrotes,9,10,9800,2027-05-08,26
+P011,Leche entera bolsa 900 ml,Lácteos y huevos,5,20,4300,2026-11-13,120
+P012,Yogur 1 L,Lácteos y huevos,10,8,7200,2026-11-15,24
+P013,Queso campesino 500 g,Lácteos y huevos,6,5,12500,2026-11-14,10
+P014,Huevos AA cubeta x30,Lácteos y huevos,14,6,18500,2026-11-29,35
+P015,Mantequilla 125 g,Lácteos y huevos,7,4,3900,2026-11-12,0
+P016,Kumis 1 L,Lácteos y huevos,4,6,6800,2026-11-24,20
+P017,"Gaseosa 1,5 L",Bebidas,24,12,5500,2027-04-08,90
+P018,Agua botella 600 ml,Bebidas,48,24,2000,2027-12-14,110
+P019,Jugo en caja 1 L,Bebidas,16,8,4200,2027-02-07,40
+P020,Cerveza lata 330 ml,Bebidas,36,24,3200,2027-05-28,70
+P021,Bebida energizante 250 ml,Bebidas,5,6,4500,2026-11-14,0
+P022,Té frío botella 500 ml,Bebidas,12,6,3000,2027-01-08,0
+P023,Papas fritas 100 g,Snacks y dulces,20,10,3500,2027-01-23,55
+P024,Galletas de sal paquete,Snacks y dulces,30,10,2500,2027-03-09,48
+P025,Chocolatina,Snacks y dulces,40,15,1800,2027-05-08,95
+P026,Chicles paquete,Snacks y dulces,3,10,1000,2027-12-14,60
+P027,Maní salado 80 g,Snacks y dulces,15,6,2000,2026-11-12,0
+P028,Dulces surtidos bolsa,Snacks y dulces,25,10,3000,2027-05-28,0
+P029,Detergente en polvo 1 kg,Aseo del hogar,14,6,9800,,30
+P030,Jabón de loza barra,Aseo del hogar,22,10,2800,,50
+P031,Cloro 1 L,Aseo del hogar,4,8,3600,,25
+P032,Papel higiénico x4,Aseo del hogar,18,10,6500,,40
+P033,Esponja lavaplatos,Aseo del hogar,30,10,1200,,0
+P034,Jabón de baño,Aseo personal,26,12,2400,,55
+P035,Crema dental 75 ml,Aseo personal,15,8,5800,,35
+P036,Champú sachet,Aseo personal,60,30,900,,150
+P037,Toallas higiénicas x10,Aseo personal,7,8,5500,,14
+P038,Cuaderno cuadriculado,Papelería,20,8,4500,,30
+P039,Lápiz,Papelería,50,20,800,,70
+P040,Borrador,Papelería,3,10,600,,15
+P041,Resma de papel carta,Papelería,6,3,16500,,0
+P042,Pegante en barra,Papelería,12,5,2800,,8
