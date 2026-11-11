@@ -1,0 +1,6 @@
+git init
+git add app.py reglas.py datos_tienda.csv requirements.txt generar_datos.py pruebas.py
+git commit -m "Inventario tienda de barrio"
+git branch -M main
+git remote add origin https://github.com/David19099/inventario-tienda.git
+git push -u origin main
